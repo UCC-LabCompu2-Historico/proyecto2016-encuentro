@@ -1,0 +1,142 @@
+*
+{
+    font-family: 'Comfortaa', cursive !important;
+}
+
+div
+{
+    border-radius: 5px;
+}
+
+#tit{
+    position: absolute;
+    width: 100%;
+    font-size:100px;
+    color: #ffffff;
+    background-image: url("Imagenes/fondorecortado.jpg");
+    text-align: center;
+    top: 0px;
+    height: 140px;
+}
+
+body{
+    background-color: #c0c0c0;
+}
+
+#tipito{
+    position:absolute;
+    right:0;
+    width: 10%;
+    align:right;
+}
+
+#subtitulo{
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    font-size:60px;
+    background-color: #31b5ff;
+}
+
+.rosa{
+    align:"left";
+    width: 40%;
+    background-color: #f6a9c9;
+    position: absolute;
+    margin-top: 228px;
+    top: 0px;
+    border-radius: 5px;
+}
+
+.fondito{
+    color: #ffffff;
+    background-image: url("Imagenes/fondorecortado.jpg");
+}
+
+
+
+#rosa1
+{
+    position: absolute;
+    left:650px;
+    text-align: center;
+}
+#rosa2
+{
+    text-align: center !important;
+}
+
+#rosa4{
+    font-size: 20px;
+    margin-top: 394px;
+    float: left;
+    height: 141px;
+    text-align: center;
+}
+
+#rosa5{
+    position: absolute;
+    top:170px;
+    left: 650px;
+    float: left;
+    height: 141px;
+    text-align: center;
+}
+
+#fondovideo{
+    top: 0;
+    left: 50px;
+    margin-top: 300px;
+    margin-left: 300px;
+    background: #ffffff;
+    width: 650px;
+    border-radius: 5px;
+}
+#videito{
+    width:650px;
+    height:240px;
+}
+#espacio{
+    margin: 140px 0px 0px 0px;
+    padding-top: 160px;
+}
+#pos-uno
+{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+#opcion
+{
+    margin-top: 30px;
+    position: relative;
+    left:40px;
+}
+.calcular
+{
+    position: relative;
+    left: -130px;
+    top:30px;
+}
+#pos-dos
+{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+#barrainf
+{
+    margin-top: 40px;
+    position: absolute;
+    width: 40%;
+    height: 40px;
+    font-size:30px;
+    background-color: #31b5ff;
+}
+#logo
+{
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: -60px;
+    width: 25%;
+    height: 100px;
+}
